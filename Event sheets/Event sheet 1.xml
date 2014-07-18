@@ -163,5 +163,16 @@
                 </action>
             </actions>
         </event-block>
+        <comment>Dicking around in a test</comment>
+        <event-block sid="3839177084555883">
+            <conditions>
+                <condition id="-19" name="On destroyed" sid="9598165224678181" type="Player" />
+            </conditions>
+            <actions>
+                <action id="-16" name="Set opacity" sid="8845643571910483" type="Block">
+                    <param id="0" name="Opacity">1</param>
+                </action>
+            </actions>
+        </event-block>
     </events>
 </c2eventsheet>
